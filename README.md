@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DHIBAID
 - 👀 I’m interested in computers and programming
 - 🌱 I’m currently learning C++ and C
-- 💞️ I’m looking to collaborate on anything, currently working on CS (custom programming language)
+- 💞️ I’m looking to collaborate on anything, currently trying to become better at Node JS
 - 📫 How to reach me: mailto:dhibaid07@gmail.com
 
 <!---
