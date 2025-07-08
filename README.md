@@ -14,7 +14,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33/">
+<table width="125%" align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -82,17 +82,5 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center">
-
-![DHIBAID's Stats](https://github-readme-stats.vercel.app/api?username=DHIBAID&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)  
-![DHIBAID's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DHIBAID&theme=ayu-mirage&hide_border=true)  
-![DHIBAID's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHIBAID&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)  
-
-</div>
 
 <br/>  
