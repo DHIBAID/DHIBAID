@@ -63,6 +63,7 @@
 ## Current Projects & Interests
 - **Operating System Development** - Writing a custom OS kernel with memory management, process scheduling, and device drivers
 - **System Programming** - Building tools and utilities that interact directly with the operating system
+- **Networking** - Building Quava, a Android - Linux client for everyday tasks.
 - **Backend Architecture** - Designing high-performance server systems and APIs
 - **Low-Level Optimization** - Performance tuning and memory-efficient programming
 
